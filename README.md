@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHuub stats:</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dankamn&show_icons=true&theme=dark)
-
 <h3 align="left">👯 Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-nicholas-83b12023a" target="blank"><img align="center" style="margin-right: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-nicholas-83b12023a" height="30" width="40" /></a>
