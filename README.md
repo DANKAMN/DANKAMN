@@ -1,5 +1,5 @@
 
-<h1 align="center">I am Daniel Nicholas</h1>
+<h1 align="center">I am Daniel Kamsiyochukwu Nicholas</h1>
 <h3 align="center">Building Bridges Between Frontend Elegance and Backend Power: A Full Stack Odyssey</h3>
 
 👨‍💻 My portfolio is available at [https://daniel-nicholas.vercel.app/](https://daniel-nicholas.vercel.app/)
