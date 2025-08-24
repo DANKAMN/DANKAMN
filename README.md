@@ -8,25 +8,32 @@
 
 ---
 
-👨‍💻 **Portfolio:** [daniel-nicholas.vercel.app](https://daniel-nicholas.vercel.app)  
-📫 **Email:** danielnicholas1477@gmail.com  
-📄 **Resume:** [daniel-resume.tiiny.site](https://daniel-resume.tiiny.site)  
-⚡ **Fun fact:** I'm not just good at bowling; I'm a precision marksman on the lanes.  
-
----
-
-### 💻 Tech Stack
-<p align="left" style="background:#0d0d0d;padding:10px;border-radius:10px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,jest,figma" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres" /><br/>
-    <img src="https://skillicons.dev/icons?i=vercel,postman,netlify" />
+<p align="center">
+  <a href="https://daniel-resume.tiiny.site" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Here-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge" />
+  </a>
+  <a href="mailto:danielnicholas1477@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://daniel-nicholas.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
 ---
 
-### 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-```txt
-No activity tracked this week
+### 📈 My GitHub Performance
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DANKAMN&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DANKAMN&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANKAMN&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
